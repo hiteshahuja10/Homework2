@@ -1,26 +1,17 @@
-My scene represents a bedroom that is created using various unity assets. Some objects that are included in my scene are a bed, chair, lamp, tv, and desk.
-I was inspired to make this because one day I would like to design my room similar to this scene where I can have my own personal couch and tv in my room
-and also still have enough space for my computer desk and bed. The main character in my scene is the robot. Most of the unity assets were from the "Brick Project Studio"
-pack in the Unity Store and the robot was from the "Robot Kyle" pack in the Unity Store.
+For this assignment, I decided to continue adding on to my scene from Homework 1, which represents a bedroom that is created using various unity assets. I added lighting into my scene, created a day/night cycyle, and created a particle system that has snow falling from the sky.
 
-Objects Used: 15 Unity Assets and 1 GameObject (31 Points)
-- Floor (1pt, Cube GameObject)
-- Robot (2pt, Unity Asset Store)
-- Lamp (2pt, Unity Asset Store)
-- Canvas Painting (2pt, Unity Asset Store)
-- Shelf (2pt, Unity Asset Store)
-- Sofa (2pt, Unity Asset Store)
-- TV (2pt, Unity Asset Store)
-- Chair (2pt, Unity Asset Store)
-- Mouse (2pt, Unity Asset Store)
-- Keyboard (2pt, Unity Asset Store)
-- Monitor (2pt, Unity Asset Store)
-- Computer Table (2pt, Unity Asset Store)
-- Dresser Table (2pt, Unity Asset Store)
-- Small Table "Table_End_02" (2pt, Unity Asset Store)
-- Bed (2pt, Unity Asset Store)
-- Walls (2pt, Unity Asset Store)
+Point Distribution:
 
-15*2 = 30 points and 1 * 1 = 1 point
+Part One (Lighting): 30 Points
+  - Point Light (It is pointed at the robot)
+  - Spot Light (It is pointed at the storage shelf)
+  - Directional Light (Pointed at TV)
+  - Emissive Material Light (Next to computer desk and the color is light green)
+
+Part Two (Day/Night Cycle): 30 Points
+  - When the scene is played, the scene switches from daytime to nightime in a cycle.
+
+Part Three (Particle System): 30 Points
+  - I created a 2D texture emitter particle system that has snow falling from the sky when the scene is played. I decided to use snow since the setting of the scene is in a snow mountain.
 
 Video Link: https://drive.google.com/file/d/1Rx4EFnwXugfOdPHnGpaSDokqPQrEJqfn/view?usp=sharing
