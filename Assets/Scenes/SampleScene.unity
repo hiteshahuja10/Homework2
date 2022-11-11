@@ -1017,7 +1017,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!108 &705507994
 Light:
@@ -1076,7 +1076,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 1.02e-43, y: 0, z: 0, w: 3.76027e+26}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -1088,14 +1088,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
-  m_LocalRotation: {x: 0.52894646, y: -0.4815617, z: -0.48020056, w: 0.50766265}
-  m_LocalPosition: {x: -3.96, y: 60.53, z: 83.27}
+  m_LocalRotation: {x: -0.5066376, y: -0.455023, z: 0.4763033, w: 0.55624425}
+  m_LocalPosition: {x: -14.5, y: 14.5, z: 31}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 364.276, y: -451.34302, z: 628.807}
+  m_LocalEulerAnglesHint: {x: 352.521, y: -1165.804, z: 808.098}
 --- !u!1001 &793391757
 PrefabInstance:
   m_ObjectHideFlags: 0
