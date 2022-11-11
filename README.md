@@ -5,7 +5,7 @@ Point Distribution:
 Part One (Lighting): 30 Points
   - Point Light (It is pointed at the robot)
   - Spot Light (It is pointed at the storage shelf)
-  - Directional Light (Pointed at TV and Sofa)
+  - Directional Light (Pointed at TV)
   - Emissive Material Light (Next to computer desk and the color is light green)
 
 Part Two (Day/Night Cycle): 30 Points
